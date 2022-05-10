@@ -25,5 +25,6 @@ I'm Dhruv Sharma😉, a 19-year old 👨🏻‍💻 from Toronto looking to solv
 - Listening to Podcasts ⏯ 
 - Going on spontaneous adventures 🌎 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dhruvs47.dhruvs47)
 
 
