@@ -27,4 +27,3 @@ I'm Dhruv Sharma😉, a 19-year old 👨🏻‍💻 from Toronto looking to solv
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dhruvs47.dhruvs47)
 
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
