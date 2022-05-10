@@ -16,4 +16,8 @@ I'm Dhruv Sharma😉, a 19-year old 👨🏻‍💻 from Toronto looking to solv
 - 🔭 I’m currently working for <strong>The Rapid Prototyping Unit at the Government of Ontario</strong> as a <strong>Low-Code Developer</strong>
 - 👨‍💻 Feel free to reach out to me to talk about tech entrepreneurship and all things startups
 
-https://badges.pufler.dev/visits/{dhruvs47}/{dhruvs47}
+### 📅 Hobbies:
+
+- Basketball 🤹‍♂️
+- Listening to Podcasts ⏯
+- Going on spontaneous adventures 🌎
