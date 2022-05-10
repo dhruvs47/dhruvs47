@@ -14,4 +14,6 @@ I'm Dhruv Sharma😉, a 19-year old 👨🏻‍💻 from Toronto looking to solv
 
 - 💼 I’m pursuing a <strong>Bachelor's of Engineering</strong>.
 - 🔭 I’m currently working for <strong>The Rapid Prototyping Unit at the Government of Ontario</strong> as a <strong>Low-Code Developer</strong>
-- 👨‍💻 Feel free to talk to me about tech entrepreneurship and all things startups
+- 👨‍💻 Feel free to reach out to me to talk about tech entrepreneurship and all things startups
+
+![Visitor Count](https : //profile-counter.glitch.me/{dhruvs47}/count.svg)
