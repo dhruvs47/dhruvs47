@@ -10,7 +10,6 @@ I'm Dhruv Sharma😉, a 19-year old 👨🏻‍💻 from Toronto looking to solv
 <p align="center">
 <a href="https://www.linkedin.com/in/dhruv-sharma-037b9814b/"><img src="https://img.shields.io/badge/-Dhruv%20Sharma-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dhruvs4747@gmail.com"><img src="https://img.shields.io/badge/-dhruvs4747@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/dhruvs47"><img src="https://img.shields.io/badge/-dhruvs47-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/dhruvs47"><img src="https://img.shields.io/badge/-dhruvs47-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
