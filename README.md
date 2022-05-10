@@ -18,6 +18,11 @@ I'm Dhruv Sharma😉, a 19-year old 👨🏻‍💻 from Toronto looking to solv
 - Listening to Podcasts ⏯ 
 - Going on spontaneous adventures 🌎 
 
+### ⚙️ &nbsp; Git Analytics
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvs47&theme=dark&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvs47&theme=dark&layout=compact" width="410" /></p>
+
 ### How to reach me: 
 <p align="center">
 <a href="https://www.linkedin.com/in/dhruv-sharma-037b9814b/"><img src="https://img.shields.io/badge/-Dhruv%20Sharma-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
