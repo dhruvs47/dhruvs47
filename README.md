@@ -7,8 +7,12 @@ I'm Dhruv Sharma😉, a 19-year old 👨🏻‍💻 from Toronto looking to solv
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 ### How to reach me: 
-<a href="mailto: dhruvs4747@gmail.com">
-<img src="https://img.shields.io/badge/-dhruvs4747@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a><a href="https://www.linkedin.com/in/dhruv-sharma-037b9814b/"><img src="https://img.shields.io/badge/dhruvsharma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> </a>
+<p align="center">
+<a href="https://www.linkedin.com/in/dhruv-sharma-037b9814b/"><img src="https://img.shields.io/badge/-Dhruv%20Sharma-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:dhruvs4747@gmail.com"><img src="https://img.shields.io/badge/-dhruvs4747@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/dhruvs47"><img src="https://img.shields.io/badge/-dhruvs47-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/dhruvs47"><img src="https://img.shields.io/badge/-dhruvs47-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
 ### Current Status Quo:
 
