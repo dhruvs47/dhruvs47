@@ -4,7 +4,7 @@ I'm Dhruv Sharma😉, a 19-year old 👨🏻‍💻 from Toronto looking to solv
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Student,+Entrepreneur,+and+Aspiring+Engineer;)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so please say <b>hi</b> 🙃:</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people,</b> so please say <b>hi</b> 🙃:</em>
 
 ### Current Status Quo:
 
