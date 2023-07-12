@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Dhruv Sharma😉, a 19-year old 👨🏻‍💻 from Toronto looking to solve real-world problems. 
+I'm Dhruv Sharma😉, a 20-year old 👨🏻‍💻 from Toronto looking to solve real-world problems. 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Student,+Entrepreneur,+and+Aspiring+Engineer;)](https://git.io/typing-svg)
 
@@ -9,8 +9,8 @@ I'm Dhruv Sharma😉, a 19-year old 👨🏻‍💻 from Toronto looking to solv
 ### Current Status Quo:
 
 - 💼 I’m pursuing a <strong>Bachelor's of Engineering</strong>.
-- 🔭 I’m currently working for <strong>The Rapid Prototyping Unit at the Government of Ontario</strong> as a <strong>Low-Code Developer</strong>
-- 👨‍💻 Learning about tech entrepreneurship and all things startups
+- 🔭 Previously worked for <strong>The Rapid Prototyping Unit at the Government of Ontario</strong> as a <strong>Low-Code Developer</strong>
+- 👨‍💻 Making films and building things
 
 ### 📅 Hobbies:
 
